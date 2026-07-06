@@ -47,6 +47,22 @@ El problema no es tanto el número, sino que **muchas estilistas no hacen esa cu
 - **Valorar con algo aparte del %**: capacitación pagada, flexibilidad de horario, reconocimiento público — esto es lo que suele generar el "sentirse valorada" que buscabas con el 50% y no llegó solo con el número más alto.
 - **Mientras es solo una estilista**: maximiza su agenda con rebooking y paquetes, considera traer a alguien part-time o en renta de silla parcial mientras creces, y ten cuidado de no sobrecargarla — el burnout es otra causa común de renuncias.
 
+### Ejemplo de estructura escalonada 40% / 45% / 50%
+
+Ajusta los montos de venta a tu ticket promedio real — lo importante es la lógica, no el número exacto. Usa 2-3 metas por nivel (no todas obligatorias, pero al menos 2 de 3) para que no dependa de un solo factor:
+
+| Nivel | Comisión | Requisitos para subir | Tiempo mínimo |
+|---|---|---|---|
+| **Inicial** | 40% | Ninguno — es el punto de partida para toda estilista nueva mientras construye su clientela con tu apoyo (marketing, rebooking, referidos). | Primeros 3 meses |
+| **Establecida** | 45% | Cumplir al menos 2 de 3: (1) mínimo de ventas mensuales en servicios (ej. $2,500-3,500/mes, según tu ticket promedio), (2) tasa de rebooking de 60%+ (clientas que agendan su próxima cita antes de irse), (3) mínimo de citas/semana consistente (ej. 15-20). | Después de 3 meses cumpliendo |
+| **Senior** | 50% | Cumplir al menos 2 de 3: (1) ventas mensuales más altas (ej. $4,000-5,000+/mes), (2) 70%+ de sus citas son clientas recurrentes (no solo nuevas o promociones), (3) venta de retail/producto adicional o mentoría a estilistas nuevas. | Después de 6 meses en nivel Establecida |
+
+Notas prácticas:
+- **La tasa de rebooking como meta es especialmente valiosa** porque no solo premia a la estilista — directamente ayuda a que el salón crezca (menos clientas se pierden entre citas).
+- **Revisa cada 3 meses**, no constantemente — da tiempo real a construir el hábito antes de medir.
+- **Ponlo por escrito y explícalo desde la entrevista/contratación**: la transparencia sobre cómo se gana el siguiente nivel evita el sentimiento de "no valoran mi trabajo" que viviste antes, porque el criterio es claro y objetivo, no una decisión arbitraria tuya.
+- Si usas Booksy/StyleSeat, estos datos (ventas, citas, recurrencia) normalmente ya se generan automáticamente en los reportes — no necesitas llevarlo a mano.
+
 ## 4. Cómo recuperar clientas que ya tuviste (campaña de reactivación)
 
 - **Segmenta tu lista** por tiempo desde la última visita: 30-60 días, 60-90 días, 90+ días. El mensaje y la oferta cambian según el grupo (entre más tiempo, mayor incentivo necesitas).
