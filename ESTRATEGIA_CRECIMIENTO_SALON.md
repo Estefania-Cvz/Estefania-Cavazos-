@@ -32,6 +32,17 @@ Perder varias estilistas seguidas casi siempre señala algo estructural (comisi�
   - Grupos de Facebook/Instagram de estilistas en tu ciudad.
   - Booksy/StyleSeat también permiten reclutar profesionales que buscan silla.
   - Pide referidos a tu estilista actual — la gente buena conoce gente buena.
+
+### Sobre bajar la comisión de 50% a 40%
+
+Es entendible la lógica (diste 50% y sentiste que no lo valoraron), pero vale la pena separar dos cosas distintas: **el número de la comisión** y **si alguien valora o no su trabajo**. Casi nunca es el porcentaje lo que genera actitud/compromiso — eso viene más de cómo se le trata, si siente que crece, y si el ambiente es bueno. El porcentaje sí afecta otra cosa muy directa: **cuánto puede vivir de esto sin necesitar un segundo trabajo** — que es justo lo que pasó con tu cuarta estilista.
+
+Algunas ideas para no quedarte atrapada entre "40% se siente bajo" y "50% no cambió nada":
+
+- **Comisión escalonada por antigüedad o desempeño**: empieza en 40% para alguien nueva (razonable, protege el negocio mientras se prueba), pero con un camino claro a 45-50% al cumplir metas (ej. 3 meses, cierto número de clientas recurrentes, o volumen de ventas). Así el aumento se gana, no se regala, y da un incentivo real para quedarse y comprometerse al 100%.
+- **Comparar con el mercado local**: 40% está en el rango bajo de lo típico en salones de comisión (usualmente 40-60%). Si estilistas cercanas ganan más en otro lado, eso empuja hacia la suite propia o el segundo trabajo, aunque el ambiente sea bueno.
+- **Separar comisión de servicio y de producto**: si no lo haces ya, una comisión adicional sobre venta de productos (aparte del servicio) sube el ingreso total sin tocar tu margen de servicio.
+- **Valorar con algo aparte del %**: capacitación pagada, flexibilidad de horario, reconocimiento público (redes, in-salon) — esto es lo que suele generar el "sentirse valorada" que buscabas con el 50% y no llegó solo.
 - **Mientras es solo una estilista**: maximiza su agenda con rebooking y paquetes, considera traer a alguien part-time o en renta de silla parcial mientras creces, y ten cuidado de no sobrecargarla — el burnout es otra causa común de renuncias.
 
 ## 4. Cómo recuperar clientas que ya tuviste (campaña de reactivación)
