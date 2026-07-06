@@ -37,12 +37,14 @@ Perder varias estilistas seguidas casi siempre señala algo estructural (comisi�
 
 Es entendible la lógica (diste 50% y sentiste que no lo valoraron), pero vale la pena separar dos cosas distintas: **el número de la comisión** y **si alguien valora o no su trabajo**. Casi nunca es el porcentaje lo que genera actitud/compromiso — eso viene más de cómo se le trata, si siente que crece, y si el ambiente es bueno. El porcentaje sí afecta otra cosa muy directa: **cuánto puede vivir de esto sin necesitar un segundo trabajo** — que es justo lo que pasó con tu cuarta estilista.
 
-Algunas ideas para no quedarte atrapada entre "40% se siente bajo" y "50% no cambió nada":
+**Dato clave: tú pones el producto al 100%, ellas solo ponen tiempo y herramientas.** Esto cambia la comparación por completo — el 40% ya no es "bajo", es competitivo o incluso generoso frente a salones donde la estilista tiene que comprar su propio producto (color, tratamientos, etc. normalmente cuestan 15-25% del precio del servicio). Una estilista que gana 50% pero paga su producto puede terminar con menos dinero neto que una que gana 40% con producto cubierto.
 
-- **Comisión escalonada por antigüedad o desempeño**: empieza en 40% para alguien nueva (razonable, protege el negocio mientras se prueba), pero con un camino claro a 45-50% al cumplir metas (ej. 3 meses, cierto número de clientas recurrentes, o volumen de ventas). Así el aumento se gana, no se regala, y da un incentivo real para quedarse y comprometerse al 100%.
-- **Comparar con el mercado local**: 40% está en el rango bajo de lo típico en salones de comisión (usualmente 40-60%). Si estilistas cercanas ganan más en otro lado, eso empuja hacia la suite propia o el segundo trabajo, aunque el ambiente sea bueno.
-- **Separar comisión de servicio y de producto**: si no lo haces ya, una comisión adicional sobre venta de productos (aparte del servicio) sube el ingreso total sin tocar tu margen de servicio.
-- **Valorar con algo aparte del %**: capacitación pagada, flexibilidad de horario, reconocimiento público (redes, in-salon) — esto es lo que suele generar el "sentirse valorada" que buscabas con el 50% y no llegó solo.
+El problema no es tanto el número, sino que **muchas estilistas no hacen esa cuenta** — solo ven "40%" y lo comparan contra "50% en otro lado" sin restar lo que ahí les costaría el producto. Vale la pena hacer ese valor visible en vez de asumir que lo saben:
+
+- **Comunícalo explícitamente al contratar y de vez en cuando con tu estilista actual**: muéstrale con números simples cuánto le costaría el producto si trabajara en un salón de 50% sin producto incluido, versus lo que gana neto contigo. Convierte tu 40% en una ventaja competitiva clara, no en algo que suena peor de lo que es.
+- **Comisión escalonada por antigüedad o desempeño**: aun con producto cubierto, tiene sentido dar un camino de 40% a 45-50% al cumplir metas (3 meses, volumen, clientas recurrentes) — da un incentivo de crecimiento sin necesidad de regalar el aumento desde el día uno.
+- **Separar comisión de servicio y de producto que ella venda**: si vende productos de retail (shampoo, tratamientos para llevar a casa), una comisión aparte por esas ventas sube su ingreso sin tocar tu estructura de servicio.
+- **Valorar con algo aparte del %**: capacitación pagada, flexibilidad de horario, reconocimiento público — esto es lo que suele generar el "sentirse valorada" que buscabas con el 50% y no llegó solo con el número más alto.
 - **Mientras es solo una estilista**: maximiza su agenda con rebooking y paquetes, considera traer a alguien part-time o en renta de silla parcial mientras creces, y ten cuidado de no sobrecargarla — el burnout es otra causa común de renuncias.
 
 ## 4. Cómo recuperar clientas que ya tuviste (campaña de reactivación)
