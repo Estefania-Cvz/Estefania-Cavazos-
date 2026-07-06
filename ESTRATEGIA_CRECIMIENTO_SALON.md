@@ -34,12 +34,33 @@ Perder varias estilistas seguidas casi siempre señala algo estructural (comisi�
   - Pide referidos a tu estilista actual — la gente buena conoce gente buena.
 - **Mientras es solo una estilista**: maximiza su agenda con rebooking y paquetes, considera traer a alguien part-time o en renta de silla parcial mientras creces, y ten cuidado de no sobrecargarla — el burnout es otra causa común de renuncias.
 
+## 4. Cómo recuperar clientas que ya tuviste (campaña de reactivación)
+
+- **Segmenta tu lista** por tiempo desde la última visita: 30-60 días, 60-90 días, 90+ días. El mensaje y la oferta cambian según el grupo (entre más tiempo, mayor incentivo necesitas).
+- **Mensaje personal, no genérico**: por WhatsApp o texto, usando su nombre y mencionando su último servicio ("Hola María, ya va casi 3 meses desde tu último balayage, ¿te gustaría agendar un retoque?"). Un mensaje personalizado convierte mucho más que un anuncio genérico.
+- **Oferta "te extrañamos"**: descuento o servicio adicional válido por tiempo limitado (ej. 2 semanas) para crear urgencia real.
+- **Pide feedback si no responde**: a veces no volvieron por una mala experiencia, el precio, o porque no encontraron horario disponible — esa información te dice qué corregir.
+- **Recordatorios automáticos de mantenimiento**: si usas Booksy/StyleSeat, activa recordatorios tipo "ya pasaron X semanas desde tu color" — mucha gente simplemente se olvida de agendar, no es que no quiera volver.
+- **Muestra que el salón sigue vivo**: contenido en redes de trabajos recientes, cambios en el local, o la estilista actual — genera curiosidad de "qué hay de nuevo" en quienes no han vuelto.
+
+## Por qué se fueron tus estilistas (y qué hacer distinto)
+
+Es útil ver el patrón completo, porque 3 de las 4 razones están ligadas al negocio, no a la persona:
+
+1. **Embarazo** — causa personal, no refleja un problema del salón. Vale la pena dejar la puerta abierta para que regrese después (part-time o flexible) si quiere.
+2. **Falta de clientes** — esta es la señal más importante: significa que no había suficiente demanda para sostenerla. Antes de contratar de nuevo, confirma que tienes evidencia real de demanda extra (lista de espera, citas que rechazas por falta de espacio) — de lo contrario, la próxima persona que contrates enfrentará lo mismo.
+3. **Quería su propia suite** — es común en estilistas con experiencia y clientela propia; buscan más autonomía y quedarse con más de lo que generan. Es difícil de evitar del todo, pero ayuda: (a) construir la marca del salón (no solo la personal de cada estilista) para que la clientela sea del negocio y no se vaya con ella, y (b) considerar un modelo de renta de silla con más independencia para estilistas senior que quieran quedarse.
+4. **Segundo trabajo / no comprometida al 100%** — normalmente pasa cuando el modelo de pago no le permite vivir solo de eso. Vale la pena revisar si tu esquema de comisión/base da lo suficiente para dedicación de tiempo completo, y aclarar expectativas de compromiso desde la entrevista.
+
+**Conclusión práctica**: antes de enfocarte en contratar más estilistas, prioriza la reactivación de clientas (arriba) — eso genera la demanda que hace que una nueva contratación sea sostenible, en vez de repetir el ciclo de "se fue por falta de clientes".
+
 ## Plan de acción sugerido (30-60-90 días)
 
 **Primeros 30 días**
 - Optimizar Google Business Profile y pedir 10 reseñas nuevas.
 - Empezar rebooking sistemático con la estilista actual.
 - Publicar contenido en redes 3-4 veces por semana.
+- Enviar campaña de reactivación a clientas inactivas (30-90+ días sin visita).
 
 **Días 31-60**
 - Lanzar programa de referidos y de lealtad.
